@@ -1,6 +1,7 @@
 # BankLoan-Approval-System
 ### Bank approval system using Django REST Framework and Machine Learning
-
+## Database Structure
+![Bank DB](https://user-images.githubusercontent.com/108905313/189906046-667fa3fe-0664-4b0b-b100-fe2aecefa045.jpeg)
 - The first thing to do is to clone the repository:
 ```sh
 $ git clone https://github.com/SoftCysec/BankLoan-Approval-System.git
